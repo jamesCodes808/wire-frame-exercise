@@ -97,8 +97,10 @@ main section:last-of-type button {
 }
 
 main section:last-of-type button:hover {
-    color: #979796;
+    color: #b9b9b9;
     background-color: #444;
+    box-shadow: 0 0.5em 0.5em -0.4em black;
+    transform: translateY(-0.25em);
 }
 
 /* footer section  */
